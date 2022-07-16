@@ -67,3 +67,29 @@ a{
 #center{
     text-align: center;
 }
+
+.container{
+    display: flex;
+    padding-top: 60px;
+}
+
+.width{
+    width: 50%;
+    padding-right: 20px;
+
+}
+.width img{
+    width: 90%;
+}
+
+.cozy{
+    font-size: 40px;
+    color: lightcoral;
+}
+
+.content{
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+    
+}
