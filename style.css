@@ -93,3 +93,34 @@ a{
     text-align: justify;
     
 }
+
+
+
+.flex{
+    display: flex;
+    margin: -0;
+    padding-bottom: 30px;
+    
+}
+
+.input{
+    font-size: 18px;
+    
+}
+
+#sub{
+    background-color: red;
+    color: white;
+    border: red;
+    padding-top: 5px;
+}
+
+#bottom{
+    padding-top: 50px;
+    
+}
+
+
+    footer{
+        text-align: center;
+    }
